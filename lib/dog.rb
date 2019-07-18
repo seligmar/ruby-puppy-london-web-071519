@@ -21,4 +21,6 @@ class Dog
     binding.pry 
   end 
   
+  def self.clear_all 
+  end 
 end 
