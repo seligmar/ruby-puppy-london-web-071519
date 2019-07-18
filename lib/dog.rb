@@ -18,10 +18,10 @@ class Dog
   end 
   
   def self.print_all 
-   @@all.each do |x|
-     puts x 
-   end 
-    binding.pry 
+  # @@all.each do |x|
+  #   puts x 
+  # end 
+  #   binding.pry 
   end 
   
   def self.clear_all
