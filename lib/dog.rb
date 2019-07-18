@@ -20,10 +20,10 @@ class Dog
   def self.print_all 
    @@all.each do |dog|
   end 
-
+binding.pry
    
   end 
-    binding.pry
+    
   
   def self.clear_all
     @@all.clear 
